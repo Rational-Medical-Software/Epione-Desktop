@@ -1,4 +1,4 @@
-# Sistema para Consultorios Medicos Epione
+# Sistema de Gestion para Consultorios Medicos Colombianos Epione
 
 ## Que Soluciona Epione?
 Epione permite:
